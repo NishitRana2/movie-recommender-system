@@ -2,7 +2,7 @@
 
 This project is a Movie Recommender System that suggests movies to users based on their preferences. It leverages advanced recommendation algorithms and provides an interactive interface for users to explore personalized movie suggestions.
 
-![image](https://github.com/user-attachments/assets/e174ebf8-772a-4a5a-9eb9-4c744652e8e0)
+![Screenshot 2025-05-09 031617](https://github.com/user-attachments/assets/cb090355-441b-49d2-938f-af850ae45e55)
 
 
 ## Table of Contents
