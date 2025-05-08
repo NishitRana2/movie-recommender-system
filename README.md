@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-This project is a Movie Recommender System that suggests movies to users based on their preferences. It leverages advanced recommendation algorithms and provides an interactive interface for users to explore personalized movie suggestions.
+This project is a Movie Recommender System that suggests movies to users based on similar to their preferences. It leverages advanced recommendation algorithms and provides an interactive interface for users to explore personalized movie suggestions.
 
 ![Screenshot 2025-05-09 031617](https://github.com/user-attachments/assets/cb090355-441b-49d2-938f-af850ae45e55)
 
@@ -54,18 +54,14 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 - This will start the Streamlit server, and you can interact with the app via your web browser.
-![image](https://github.com/user-attachments/assets/a4e69c4e-7865-4669-b4fb-81cb0ed19c65)
+![Screenshot 2025-05-09 032547](https://github.com/user-attachments/assets/9881fc06-6dbd-4755-b1bf-65406a355024)
 
 - Browse and select movies to receive personalized recommendations.
-![image](https://github.com/user-attachments/assets/78944f38-d7c4-4639-bc03-ba015bb01211)
 
 
 ## Model Training
 The recommendation model is trained using Natural language processing (NLP) and  content-based filtering techniques.
 
-Model Summary:
-![image](https://github.com/user-attachments/assets/d75a1612-e346-4c64-80b5-8f960c938230)
-![image](https://github.com/user-attachments/assets/b25b162f-7fec-4ad6-9c66-c6685206547a)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss any changes or improvements.
